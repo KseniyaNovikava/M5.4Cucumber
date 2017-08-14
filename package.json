@@ -1,0 +1,18 @@
+{
+  "name": "m5.4cucumber",
+  "version": "1.0.0",
+  "main": "Gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-angular-protractor": "^0.2.0",
+    "gulp-cucumber": "0.0.22",
+    "string-format": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
